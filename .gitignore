@@ -1,0 +1,4 @@
+*.zip
+data/
+__MACOSX/
+.ipynb_checkpoints/
