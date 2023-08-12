@@ -2,3 +2,4 @@
 data/
 __MACOSX/
 .ipynb_checkpoints/
+.checkpoint/
